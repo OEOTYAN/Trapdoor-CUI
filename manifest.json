@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "made by OEOTYAN",
+        "name": "WorldEdit-BE CUI V0.1",
+        "uuid": "38ef8df1-1eef-42d4-9ac7-0176ff1cd66b",
+        "version": [
+            0,
+            1,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            13,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "description": "made by OEOTYAN",
+            "type": "resources",
+            "uuid": "58f053ad-428d-4f16-a11d-b083e9e37aa2",
+            "version": [
+                0,
+                1,
+                0
+            ]
+        }
+    ]
+}
