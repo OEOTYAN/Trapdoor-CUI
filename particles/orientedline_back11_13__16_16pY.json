@@ -1,4 +1,0 @@
-{"format_version":"1.10.0",
-"particle_effect":{
-"description":{
-"identifier":"worldedit:orientedline_back11_13__16_16pY","basic_render_parameters":{"material":"particles_back","texture":"particles/base"}},"components":{"minecraft:emitter_lifetime_looping":{"active_time":1},"minecraft:emitter_rate_instant":{"num_particles":1},"minecraft:emitter_lifetime_once":{},"minecraft:particle_lifetime_expression":{"max_lifetime":2},"minecraft:emitter_shape_point":{"offset":[0,0,0],"direction":[-0.805557,0.58757,-0.07642]}, "minecraft:particle_initial_spin": {"rotation": 136.563},"minecraft:particle_appearance_tinting":{"color":[1,0.980392,0.384314,0.07]},"minecraft:particle_appearance_billboard":{"size":[8,0.045],"facing_camera_mode":"direction_z"}}}}
