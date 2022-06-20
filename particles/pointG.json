@@ -2,7 +2,7 @@
     "format_version": "1.10.0",
     "particle_effect": {
         "description": {
-            "identifier": "worldedit:pointY",
+            "identifier": "worldedit:pointG",
             "basic_render_parameters": {
                 "material": "particles_alpha",
                 "texture": "particles/point"
@@ -22,16 +22,16 @@
             "minecraft:emitter_shape_point": {},
             "minecraft:particle_appearance_tinting": {
                 "color": [
-                    1,
-                    0.980392,
-                    0.384314,
+                    0.329412,
+                    0.992157,
+                    0.486275,
                     1
                 ]
             },
             "minecraft:particle_appearance_billboard": {
                 "size": [
-                    0.25,
-                    0.25
+                    0.1,
+                    0.1
                 ],
                 "facing_camera_mode": "rotate_xyz"
             }
