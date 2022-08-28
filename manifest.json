@@ -2,11 +2,11 @@
     "format_version": 2,
     "header": {
         "description": "made by OEOTYAN",
-        "name": "WorldEdit-BE CUI V0.4",
-        "uuid": "c258c5c5-2966-4d62-b786-5c9985b0858e",
+        "name": "Trapdoor CUI v5.0",
+        "uuid": "37af5e97-6569-4750-8d23-8d390228bd7f",
         "version": [
+            5,
             0,
-            4,
             0
         ],
         "min_engine_version": [
@@ -19,10 +19,10 @@
         {
             "description": "made by OEOTYAN",
             "type": "resources",
-            "uuid": "680c0fbe-2741-4ddf-9b00-a0c1ad7ec836",
+            "uuid": "de142190-9a61-4b9c-bc7f-d97dc939b30d",
             "version": [
+                5,
                 0,
-                4,
                 0
             ]
         }
